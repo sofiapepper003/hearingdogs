@@ -1,0 +1,841 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="shortcut icon" href="/Static/images/favicon.ico"/>
+
+        <meta property="og:title" content="The Dog Blog"/>
+        <meta property="og:description" content="Get all the latest Hearing Dogs news, behind-the-scenes exclusives and lots of adorable puppies here on the Dog Blog! "/>
+        <meta property="og:url" content="https://www.hearingdogs.org.uk/blog/"/>
+        <meta property="og:type" content="website" />
+
+<title>The Dog Blog</title>
+<meta name="description" content="Get all the latest Hearing Dogs news, behind-the-scenes exclusives and lots of adorable puppies here on the Dog Blog! " />
+<meta name="keywords" content="hearing dogs blog" />
+        
+        <!--[if lt IE 9]>
+            <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <link href="//www.fuelcdn.com/fuelux/3.13.0/css/fuelux.min.css" rel="stylesheet">
+        <link href="/Static/css/headerStyles?v=ZB8VXdHJ563oyjTyJWV_fMKvZbEIztBEibUEhM-YUtA1" rel="stylesheet"/>
+
+        <link href="/Static/css/screenStyles?v=p58jb78Y1AsDSfM4W8rDqK-zTMfFSsC3eI9D4M1Y3Vo1" rel="stylesheet"/>
+
+        <link href="/Static/css/import-ant.css" rel="stylesheet" />
+        <!-- Picture fill loading async and before content -->
+        <script>
+            document.createElement('picture');
+        </script>
+        <script src="/Static/js/headerScripts?v=T8jaF4SvwlOn2ZCni_OTW8EdO6zLD21NgDq8joS7Xng1"></script>
+
+
+        <script type="text/javascript">
+//Impact Radius
+(function(a,b,c,d,e,f,g){e['ire_o']=c;e[c]=e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('//d.impactradius-event.com/A120234-63a5-4c00-94ee-f3fc91708a412.js','script','ire',document,window); ire('identify', {customerid: '', customeremail: ''}); 
+</script>
+<link href="https://www.hearingdogs.org.uk/globalassets/zadded/hd-overrides.css?v=1.0.2" rel="stylesheet">
+<script type="text/javascript" src="https://analytics-eu.clickdimensions.com/ts.js" > </script>
+<script type="text/javascript">
+  var cdAnalytics = new clickdimensions.Analytics('analytics-eu.clickdimensions.com');
+  cdAnalytics.setAccountKey('ah07kdlP3k6FoUSh6kEvYw');
+  cdAnalytics.setDomain('hearingdogs.org.uk');
+  cdAnalytics.setScore(typeof(cdScore) == "undefined" ? 0 : (cdScore == 0 ? null : cdScore));
+  cdAnalytics.trackPage();
+</script>
+
+
+    </head>
+    <body class="">
+        
+        <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-55LT9D" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })
+            (window, document, 'script', 'dataLayer', 'GTM-55LT9D');
+        </script>
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-6361659-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        <!-- End Google Tag Manager -->
+
+        <div class="main ">
+            
+            
+
+       
+
+    <div class="background-div"></div>
+
+    <header class="header clearfix">
+
+
+        <nav class="navbar">
+            <div class="container">
+                <div class="row account-links">
+
+<div class="account-links-container">
+    <ul class="">
+
+            <li class="hidden-xs"><a href="/contact-us/">Contact us</a></li>
+                         <li class="logged-out-link"><a href="/account/create-account/">Create account</a></li>
+                 <li class="logged-out-link"><a href="/account/account-login/?returnUrl=https%3a%2f%2fwww.hearingdogs.org.uk%2f%2fblog">Login</a></li>
+    </ul>
+</div>
+<div class="account-links-basket hidden-xs">
+    <a href="/checkout" class="hd-basket primary-reverse"><span class="hd-basket-circle ">0</span></a>
+</div>
+
+                </div>
+                <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="navbar-header">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a href="#" class="nav-search nav-search-toggle mobile-search collapsed" data-toggle="collapse" data-target="#search-row" aria-expanded="false"><span class=""></span></a>
+                            </li>
+                            <li><a href="/checkout" class="hd-basket primary-reverse"><span class="hd-basket-circle ">0</span></a></li>                            
+                            <li>
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-menu" aria-expanded="false">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row search-row collapse search-row-phone" id="search-row" aria-expanded="false">
+<form action="/search/" method="GET" class="navbar-form" role="search">
+    <div class="input-group">
+        <input type="text" name="SearchQuery" class="form-control" placeholder="Search website" />
+        <span class="input-group-btn">
+            <button class="btn btn-default" type="submit"></button>
+        </span>
+    </div>
+</form>
+
+                </div>
+            </div>
+            <div class="header-logo-menu-links-container">
+                <div class="container">
+                    <div class="row">
+                        <div class="header-logo-container col-xs-6">
+                            <div >
+                                <a href="/">
+                                    <img src="/globalassets/2.-home-page/hearing-dogs-logo-header_261x112.png" alt="Hearing Dogs for Deaf People logo" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="header-menu-links-container col-xs-6 col-sm-6 collapse navbar-collapse" id="bs-menu">
+                            <div class="row">
+                                <div class="header-contributions-container col-xs-12 hidden-xs">
+                                    <div>
+                                        
+<a class="link-button huge-link-button primary" href="https://shop.hearingdogs.org.uk/" target="_blank" title="Opens in a new window">Shop</a><a class="link-button huge-link-button primary" href="/donate/">Make a donation</a><a class="link-button huge-link-button primary" href="/sponsor-a-puppy/">Sponsor a puppy</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="header-navigation-container">
+                                <ul class="mobile-menu hidden-sm hidden-md hidden-lg">
+            <li>
+            <a href="/about/" >About us</a>
+        </li>
+        <li>
+            <a href="/training-our-puppies/" >Training our puppies</a>
+        </li>
+        <li>
+            <a href="/helping-deaf-people/" >Helping deaf people</a>
+        </li>
+        <li>
+            <a href="/support/" >Support us</a>
+        </li>
+        <li>
+            <a href="/volunteer/" >Volunteer</a>
+        </li>
+        <li>
+            <a href="/helpingyou/" >Our services</a>
+        </li>
+
+
+    <li>
+        <a href="/contact-us/" >Contact us</a>
+    </li>
+
+
+                                </ul>
+
+                                <ul class="hidden-xs main-menu">
+            <li >
+            <a href="/about/">About us</a>
+        </li>
+        <li >
+            <a href="/training-our-puppies/">Training our puppies</a>
+        </li>
+        <li >
+            <a href="/helping-deaf-people/">Helping deaf people</a>
+        </li>
+        <li >
+            <a href="/support/">Support us</a>
+        </li>
+        <li >
+            <a href="/volunteer/">Volunteer</a>
+        </li>
+        <li >
+            <a href="/helpingyou/">Our services</a>
+        </li>
+
+
+
+                                    <li class="hidden-md hidden-lg header-navigation-search-toggle tablet-search">
+                                        <a href="#" class="nav-search-toggle" data-toggle="collapse" data-target="#search-row-tablet" aria-expanded="false"><span class=""></span></a>
+                                    </li>
+                                </ul>
+
+                                <div class="search-row search-row-desktop hidden-xs hidden-sm">
+<form action="/search/" method="GET" class="navbar-form" role="search">
+    <div class="input-group">
+        <input type="text" name="SearchQuery" class="form-control" placeholder="Search website" />
+        <span class="input-group-btn">
+            <button class="btn btn-default" type="submit"></button>
+        </span>
+    </div>
+</form>
+
+                                </div>
+
+                            </div>
+
+                            <div class="row search-row search-row-tablet collapse" id="search-row-tablet" aria-expanded="false">
+<form action="/search/" method="GET" class="navbar-form" role="search">
+    <div class="input-group">
+        <input type="text" name="SearchQuery" class="form-control" placeholder="Search website" />
+        <span class="input-group-btn">
+            <button class="btn btn-default" type="submit"></button>
+        </span>
+    </div>
+</form>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 visible-xs-block">
+                    <div class="header-contributions-container">
+                        <div>
+                            
+<a class="link-button huge-link-button primary" href="https://shop.hearingdogs.org.uk/" target="_blank" title="Opens in a new window">Shop</a><a class="link-button huge-link-button primary" href="/donate/">Make a donation</a><a class="link-button huge-link-button primary" href="/sponsor-a-puppy/">Sponsor a puppy</a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>   
+
+<div class="container main-content  ">
+    
+<div>
+    <div class="container-fluid">
+    <div class="hero shop-hero row js-mobileLink">
+        <div class="col-xs-12">
+            <div class="bg-img-holder" style="background-image: url(/globalassets/blog/blog-assets/jess-desktop-hero-blog-977-x-250-gradient.jpg);">
+                <div class="visible-xs-block visible-sm-block background-image-mobile">
+                    <picture>
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="/globalassets/blog/blog-assets/jess-large-mobile-hero-image-767-x-250.jpg" media="(min-width: 768px)">
+                        <source srcset="/globalassets/blog/blog-assets/jess-large-mobile-hero-image-767-x-250.jpg" media="(min-width: 481px)">
+                        <source srcset="/globalassets/blog/blog-assets/jess-small-mobile-hero-image-480-x-250.jpg" media="(min-width: 100px)">
+                        <img src="/globalassets/blog/blog-assets/jess-desktop-hero-blog-977-x-250-gradient.jpg" alt="">
+                        <!--[if IE 9]></video><![endif]-->
+                    </picture>
+                </div>
+                <!--
+                    Desktop and Tablet Portrait: /globalassets/blog/blog-assets/jess-desktop-hero-blog-977-x-250-gradient.jpg
+                    Large Mobile: /globalassets/blog/blog-assets/jess-large-mobile-hero-image-767-x-250.jpg
+                    Small Mobile: /globalassets/blog/blog-assets/jess-small-mobile-hero-image-480-x-250.jpg
+                -->
+                <div class="col-xs-12 shop-hero-cta right-cta">
+                    <div >
+                                <h1 class="theme5">The Dog Blog</h1>
+
+                        <p class="theme5">Get all the latest Hearing Dogs news, behind-the-scenes exclusives and lots of adorable puppies here on the Dog Blog! </p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<div class="blog-menu container-fluid">
+    <div class="row">
+        <ul class="nav nav-pills">
+            <li role="presentation"><a class="selected" href="/blog/">All posts</a></li>
+                <li role="presentation"><a class="unselected" href="/blog/?categoryId=7">Behind the scenes</a></li>
+                <li role="presentation"><a class="unselected" href="/blog/?categoryId=25">Cute Corner</a></li>
+                <li role="presentation"><a class="unselected" href="/blog/?categoryId=5">Our community</a></li>
+                <li role="presentation"><a class="unselected" href="/blog/?categoryId=3">Stories</a></li>
+        </ul>
+    </div>
+</div>
+
+<form action="/blog/LoadMorePosts/" data-ajax="true" data-ajax-method="Get" data-ajax-mode="replace" data-ajax-update="#blogposts" id="form0" method="post">    <div id="blogposts">
+<div class="container-fluid columns">
+    <div class="row js-grid">
+        <div class="gutter"></div>
+<div class="card theme3 col-xs-12">
+    <a href="/blog/cute-corner/7-of-the-cutest-hearing-dog-videos/"><img src="/globalassets/blog/blog-images/280x132-cocker-spaniel-puppy-scout.jpg" alt="Cocker spaniel Scout" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/cute-corner/7-of-the-cutest-hearing-dog-videos/"><h2>7 of the cutest hearing dog videos<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/cute-corner/7-of-the-cutest-hearing-dog-videos/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Super Scout has passed the first stage of his hearing dog training, Albert goes shopping, our cocker spaniel puppies have fun outside, and Hamlet is a superstar. This way for adorable videos.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/cute-corner/7-of-the-cutest-hearing-dog-videos/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme5 col-xs-12">
+    <a href="/blog/Pets-at-Home-Summer-Fundraiser-is-underway/"><img src="/globalassets/blog/blog-images/280x132-hearing-dog-fudge-at-pets-at-home.jpg" alt="Hearing dogs in Pets at Home stores" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/Pets-at-Home-Summer-Fundraiser-is-underway/"><h2>Pets at Home Summer Fundraiser is underway<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/Pets-at-Home-Summer-Fundraiser-is-underway/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Pets at Home are raising funds for Hearing Dogs for a second year, and a number of our incredible dogs have already been into stores to say thank you.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/Pets-at-Home-Summer-Fundraiser-is-underway/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme2 col-xs-12">
+    <a href="/blog/tmit/puppy-training-july-2023/"><img src="/globalassets/blog/blog-images/tmit/2023/july/280x132-cockapoo-puppy-gus.jpg" alt="Cockapoo puppy Gus" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/tmit/puppy-training-july-2023/"><h2>This month in training: July 2023<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/tmit/puppy-training-july-2023/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Siblings Keith and Kimi have been on an adventure together, Cockapoo Gus (pictured) is smiling his way through training, Nico has been to a supermarket, and much more. Find out what our clever pups have been learning.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/tmit/puppy-training-july-2023/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme1 col-xs-12">
+    <a href="/blog/votm-june-2023/"><img src="/globalassets/8.-volunteer/volunteer-of-the-month/blog-280-x-132---mike-moss---votm-june-2023.jpg" alt="volunteer hearing dogs" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/votm-june-2023/"><h2>Volunteer of the Month - June 2023 - Mike Moss<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/votm-june-2023/">Victoria Leedham</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Author Mike&#39;s unique charitable endeavours, readiness to attend public engagements and amiable personality make him a pleasure to work with and volunteer alongside.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/votm-june-2023/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme3 col-xs-12">
+    <a href="/blog/keeping-your-dog-safe-and-happy-in-summer/"><img src="/globalassets/blog/280x132-max-summer.jpg" alt="summer dog safety" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/keeping-your-dog-safe-and-happy-in-summer/"><h2>Keeping your dog safe and happy in summer<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/keeping-your-dog-safe-and-happy-in-summer/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Our top tips for keeping your dog safe and happy during warmer weather.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/keeping-your-dog-safe-and-happy-in-summer/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme1 col-xs-12">
+    <a href="/blog/volunteersweek-2023/"><img src="/globalassets/8.-volunteer/volunteers-week/blog-image-280-x-132.jpg" alt="Vols week logo" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/volunteersweek-2023/"><h2>Volunteers&#39; Week 2023<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/volunteersweek-2023/">Lisa Meller</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Every day this week, we’ll be sharing a story from a member of #TeamBurgundy, telling tales of unity, camaraderie, and friendship.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/volunteersweek-2023/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme2 col-xs-12">
+    <a href="/blog/tmit/puppy-training-june-2023/"><img src="/globalassets/blog/blog-images/tmit/2023/june/280x132-orbit-on-a-train.jpg" alt="Yellow Labrador Orbit on a train" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/tmit/puppy-training-june-2023/"><h2>This month in training: June 2023<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/tmit/puppy-training-june-2023/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            A very smiley Orbit has been on his first train journey, magical Merlin has been shopping, and puppy Flapjack has been learning his &#39;sit&#39; and &#39;wait&#39;.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/tmit/puppy-training-june-2023/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme3 col-xs-12">
+    <a href="/blog/cute-corner/6-super-cute-hearing-dog-videos/"><img src="/globalassets/blog/blog-images/tmit/2023/june/280x132-hugh.jpg" alt="Black Labrador Hugh" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/cute-corner/6-super-cute-hearing-dog-videos/"><h2>6 must-watch videos full of hearing dog cuteness<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/cute-corner/6-super-cute-hearing-dog-videos/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Find out more about super Sherlock, who is in the final stage of his hearing dog training, meet our very cute eight-week-old puppies, and Hugh (pictured) has wonderful news. It must be time for those cute videos.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/cute-corner/6-super-cute-hearing-dog-videos/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme1 col-xs-12">
+    <a href="/blog/votm-may-2023/"><img src="/globalassets/8.-volunteer/volunteer-of-the-month/malcom-and-cindy.png" alt="volunteer hearing dogs" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/votm-may-2023/"><h2>Volunteer of the Month - May 2023 - Malcolm Domb &amp; Cindy Whife<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/votm-may-2023/">Lisa Meller</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Volunteers Malcolm Domb &amp; Cindy Whife are wonderful ambassadors for Hearing Dogs for Deaf People and we are so lucky to have them.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/votm-may-2023/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme1 col-xs-12">
+    <a href="/blog/fiona-and-robs-volunteering-story/"><img src="/globalassets/blog/blog-images/280x132-rob-and-fiona.jpg" alt="Fiona and Rob sitting with cocker spaniels Ginny and Hebe, and cockapoo Chilli" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/fiona-and-robs-volunteering-story/"><h2>&quot;The love you gain from this community is priceless&quot;<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/fiona-and-robs-volunteering-story/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            When Fiona began volunteering for Hearing Dogs 17 years ago, she simply wanted to make a difference in her own small way. What she gained from being a volunteer was far more than she or her husband Rob ever expected…
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/fiona-and-robs-volunteering-story/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme2 col-xs-12">
+    <a href="/blog/tmit/puppy-training-may-2023/"><img src="/globalassets/blog/blog-images/tmit/2023/may/280x132-mj-on-a-train.jpg" alt="Black Labrador MJ on a train" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/tmit/puppy-training-may-2023/"><h2>This month in training: May 2023<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/tmit/puppy-training-may-2023/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            MJ has been learning all about public transport, Presley and Flossy did brilliantly on their trips to supermarkets and Ebony is excelling in her soundwork. Find out what our clever pups have been learning in their training.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/tmit/puppy-training-may-2023/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div><div class="card theme3 col-xs-12">
+    <a href="/blog/cute-corner/6-cute-hearing-dog-videos/"><img src="/globalassets/blog/blog-images/tmit/2023/may/280x132-cockapoo-flame.jpg" alt="Cockapoo puppy Flame" class="img-responsive" /></a>
+    <div class="col-xs-6 col-sm-12">
+        <a href="/blog/cute-corner/6-cute-hearing-dog-videos/"><h2>6 adorable videos of future life-changing hearing dogs<i class="hd-arrow visible-xs"></i></h2></a>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <small>Post by <a href="/blog/cute-corner/6-cute-hearing-dog-videos/">Matt Sadler</a></small>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <p class="introtext">
+            Meet our playful Cockapoo puppies, find out why River is celebrating, and see a very bouncy Mango loving his soundwork. This way for guaranteed cuteness.
+        </p>
+    </div>
+    <div class="col-xs-12 hidden-xs">
+        <a href="/blog/cute-corner/6-cute-hearing-dog-videos/"><h2>Read more<i class="hd-arrow"></i></h2></a>
+    </div>
+</div>            
+    </div>
+</div>
+    <div class="container-fluid more-content js-card-load">
+        <div class="row">
+            <div class="col-xs-12">
+                <a data-ajax="true" data-ajax-method="Get" data-ajax-mode="replace" data-ajax-update="#blogposts" href="/blog/LoadMorePosts/?count=24&amp;categoryId=0">Load more stories</a>
+            </div>
+        </div>       
+    </div>
+<script>
+    $(function () {
+        masonryLoad();
+    });
+</script>
+    </div>
+</form>
+<div>
+    <div><div class="hd-editor"><div class="container-fluid ">
+    <div class="row">
+        <div class="col-xs-12 hd-rte blog-conditional">
+            <h2 class="text-center primary">Find out how you can help</h2>
+        </div>
+    </div>
+</div>
+</div><div class="hd-editor"><div>
+    <div class="container-fluid ">
+        <div class="row">
+            <div class="col-xs-12">
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 hd-rte blog-conditional">
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid intro-blocks columns">
+        <div class="columns">
+            <div class="row js-grid">
+                <div class="gutter"></div>
+                <div><div class="hd-editor-cols"><div class="col-xs-12 col-sm-4">
+    <div class="theme-block theme1">
+
+<a href="/sponsor-a-puppy/">                <img  src="/globalassets/sponsor/summer/sponsor-hearing-dog-puppy-summer-hero-280x241.jpg" alt="cockapoo puppy" />
+                <h2 >
+                    Sponsor a puppy
+                    <i class="hd-arrow"></i>
+                </h2>
+                <span >
+                </span>
+</a>
+
+    </div>
+</div>   </div><div class="hd-editor-cols"><div class="col-xs-12 col-sm-4">
+    <div class="theme-block theme2">
+
+<a href="/support/">                <img  src="/globalassets/1.-call-to-actions/training-cta-ps/support-us-280-x-241.jpg" alt="Support us" />
+                <h2 >
+                    Support us
+                    <i class="hd-arrow"></i>
+                </h2>
+                <span >
+                </span>
+</a>
+
+    </div>
+</div>   </div><div class="hd-editor-cols"><div class="col-xs-12 col-sm-4">
+    <div class="theme-block theme3">
+
+<a href="/volunteer/">                <img  src="/globalassets/1.-call-to-actions/training-cta-ps/volunteer-280-x-241.jpg" alt="Volunteer for hearing dogs" />
+                <h2 >
+                    Volunteer for us
+                    <i class="hd-arrow"></i>
+                </h2>
+                <span >
+                </span>
+</a>
+
+    </div>
+</div>   </div></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div></div>
+</div>
+</div>
+
+
+
+<footer class="nav navbar-inverse footer">
+        <div >
+            <div class="newsletter-container" style="background-image: url(/globalassets/2.-home-page/hearing-dogs-enewsletter3-1920-x-250.jpg)">
+    <div class="visible-xs-block background-image-mobile">
+        <picture>
+        <!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source srcset="/globalassets/2.-home-page/hearing-dogs-enewsletter3-1920-x-250.jpg" media="(min-width: 768px)">
+        <source srcset="/globalassets/2.-home-page/hearing-dogs-enewsletter2-767-x-250.jpg" media="(min-width: 481px)">
+        <source srcset="/globalassets/2.-home-page/hearing-dogs-enewsletter2-480-x-250.jpg" media="(min-width: 100px)">
+        <img src="/globalassets/2.-home-page/hearing-dogs-enewsletter3-1920-x-250.jpg" alt="">
+        <!--[if IE 9]></video><![endif]-->
+        </picture>
+    </div>
+    <!--
+        Desktop and Tablet Portrait: /globalassets/2.-home-page/hearing-dogs-enewsletter3-1920-x-250.jpg
+        Large Mobile: /globalassets/2.-home-page/hearing-dogs-enewsletter2-767-x-250.jpg
+        Small Mobile: /globalassets/2.-home-page/hearing-dogs-enewsletter2-480-x-250.jpg
+    -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 newsletter-cta right-cta">
+                <div>
+                    <h2>Sign up for our e-newsletter</h2>
+                    <p>Get updates from across the Charity – and if you sign up today we&#39;ll send you an exclusive welcome series to introduce you to the work we do.</p>
+<a class="link-button large-plus-link-button primary" href="/subscribe/enews/">Sign up</a>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    <div class="footer-link-list">
+        <div class="container">
+            <div class="row">
+                <div class="footer-link-list-about col-xs-12 col-sm-3">
+                    <div >
+                        <ul>
+    <li>
+<a href="/about/">About us</a>
+    </li>
+        <li>
+            <a href="/blog/">Blog</a>
+        </li>
+        <li>
+            <a href="/faqs/">FAQs</a>
+        </li>
+        <li>
+            <a href="/about/our-history/">Our history</a>
+        </li>
+        <li>
+            <a href="/careers/">Jobs</a>
+        </li>
+        <li>
+            <a href="/about/rehoming-a-withdrawn-dog/" title="Rehoming">Rehoming</a>
+        </li>
+</ul>
+                    </div>
+                </div>
+                <div class="footer-link-list-connect col-xs-12 col-sm-3">
+                    <div >
+                        <ul>
+    <li>
+<a href="/contact-us/">Connect with us</a>
+    </li>
+        <li>
+            <a href="/helpingyou/">How we can help you</a>
+        </li>
+        <li>
+            <a href="/contact-us/bsl-interpreter/">BSL Interpreter</a>
+        </li>
+        <li>
+            <a href="/press/">Media &amp; Press office</a>
+        </li>
+        <li>
+            <a href="/contact-us/">Contact us</a>
+        </li>
+</ul>
+                    </div>
+                </div>
+                <div class="footer-link-list-more col-xs-12 col-sm-3">
+                    <div >
+                        <ul>
+    <li>
+<a href="/deafness-and-hearing-loss/">Deafness and hearing loss</a>
+    </li>
+        <li>
+            <a href="/deafness-and-hearing-loss/" target="_top" title="Understanding deafness">Understanding deafness</a>
+        </li>
+        <li>
+            <a href="/deafness-and-hearing-loss/impacts-of-deafness/" target="_top" title="Impacts of deafness">Impacts of deafness</a>
+        </li>
+        <li>
+            <a href="/helping-deaf-people/" title="Helping deaf people">Helping deaf people</a>
+        </li>
+        <li>
+            <a href="/about/aduk/">Assistance Dogs UK</a>
+        </li>
+</ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3 footer-logo hidden-xs" >
+
+                            <a href="/link/4f382005c33540509ac6e9ab6860f290.aspx" target="" title="">
+            <img src="/globalassets/z-logo-block/ps-scheme-logo-trans-155x124.png" alt="Sponsor a puppy" class="img-responsive"/>
+        </a>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div  class="social-links-container">
+        <div class="container">
+            <div class="row">
+                <ul class="social-links col-xs-12 col-sm-8 col-sm-push-3">
+    <li>
+        <a href="https://www.facebook.com/hearing.dogs?ref=name" target="_blank" title="Opens in a new window" class="facebook"><i class="fa fa-2x fa-facebook"></i></a>
+    </li>
+    <li>
+        <a href="https://twitter.com/hearingdogs" target="_blank" title="Opens in a new window" class="twitter"><i class="fa fa-2x fa-twitter"></i></a>
+    </li>
+    <li>
+        <a href="http://www.instagram.com/hearingdogs" target="_blank" title="Opens in a new window" class="instagram"><i class="fa fa-2x fa-instagram"></i></a>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/user/HearingDogs1" target="_blank" title="Opens in a new window" class="youtube"><i class="fa fa-2x fa-youtube"></i></a>
+    </li>
+</ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div >
+        <div class="container">
+            <div class="row footer-links">
+                <div class="col-xs-12">
+                    <ul>
+                            <li>
+        <a href="/terms/copyright/">Copyright notice</a>
+    </li>
+    <li>
+        <a href="/terms/disclaimer/">Disclaimer</a>
+    </li>
+    <li>
+        <a href="/terms/privacy-policy/">Privacy policy</a>
+    </li>
+    <li>
+        <a href="/terms/complaints-policy/">Complaint policies</a>
+    </li>
+    <li>
+        <a href="/terms/terms-and-conditions/" title="Temporary Terms Page">Terms &amp; conditions</a>
+    </li>
+    <li>
+        <a href="/terms/cookie-policy/">Cookie policy</a>
+    </li>
+    
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xs-12 visible-xs-block footer-logo" >
+
+                        <a href="/link/4f382005c33540509ac6e9ab6860f290.aspx" target="" title="">
+            <img src="/globalassets/z-logo-block/ps-scheme-logo-trans-155x124.png" alt="Sponsor a puppy" class="img-responsive"/>
+        </a>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <div >
+        <div class="container footer-registration">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="hd-rte">
+    <p>
+        <div class="row">
+<div class="col-xs-12">
+<p>Registered charity in England and Wales no. 293358 and in Scotland no. SC040486. Royal Patron HRH The Princess Royal.</p>
+</div>
+</div>
+<div>
+<script src="/globalassets/zadded/hd.js"></script>
+</div>
+    </p>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+        </div>
+            <div id="cookie">
+                <p>We use&nbsp;<a href="/terms/cookie-policy/">cookies</a>&nbsp;to give you the best online experience. Please let us know if you agree to these cookies.</p>
+                <a class="pull-left link-button large-plus-link-button primary acceptCookie" href="#">I agree</a>
+<a class="pull-right link-button large-plus-link-button primary" href="/terms/cookie-policy/">More information</a>            </div>
+        <script src="/Static/js/footerScripts?v=7l3VU6okcgo8t6czj--Fz8rDtCNZoMGsYuwrOE0uiFk1"></script>
+
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="//www.fuelcdn.com/fuelux/3.13.0/js/fuelux.min.js"></script>
+        
+    
+
+        <div id="outdated"></div>
+        <script>
+
+            //event listener: DOM ready
+            function addLoadEvent(func) {
+                var oldonload = window.onload;
+                if (typeof window.onload != 'function') {
+                    window.onload = func;
+                } else {
+                    window.onload = function () {
+                        if (oldonload) {
+                            oldonload();
+                        }
+                        func();
+                    }
+                }
+            }
+            //call plugin function after DOM ready
+            addLoadEvent(function () {
+                outdatedBrowser({
+                    bgColor: '#f25648',
+                    color: '#ffffff',
+                    lowerThan: 'transform',
+                    languagePath: 'Static/libs/outdatedbrowser/lang/en.html'
+                })
+            });
+
+
+        </script>
+    </body>
+</html>
